@@ -9,3 +9,7 @@
 ### Week1
 * Codesignal：python review
 * Leetcode：Linked-List
+
+
+## Week 5
+* HW1：Quick Sort & flowchart
