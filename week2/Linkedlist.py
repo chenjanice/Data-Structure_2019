@@ -138,5 +138,4 @@ class MyLinkedList:
             self.size-=1
             
             
-            
- #Q：為什麼有時候要 return -1  ，有時候不用?
+
