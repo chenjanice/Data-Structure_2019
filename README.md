@@ -20,7 +20,9 @@
 * Leetcode：Quick Sort
 
 ### Week 5
-* HW1：[Quick Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
+* HW1：**Quick Sort**
+  *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
+  *  [.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/quicksort.ipynb)   
 * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
 * [Quick Sort Flowchart](quicksort_flowchart.jpg)
 
