@@ -7,18 +7,15 @@
 >* Goal：Using Python to practice Data Structure and Algorithm
 
 ### Week1
-* Codesignal：python review
+* Codesignal：[python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
-* Codesignal：python review
-* Leetcode：Linked-List
+* Leetcode：[Linked-List](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
 
 ### Week3
-* Codesignal：python review
 * Leetcode：Stack & Queue
 
 ### Week4
-* Codesignal：python review
 * Leetcode：Quick Sort
 
 ### Week 5
