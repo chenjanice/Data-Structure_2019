@@ -11,6 +11,7 @@
 
 ### Week2
 * Leetcode：[Linked-List](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
+* [Linked-List Note](week2/Linked-List_Note.md)
 
 ### Week3
 * Leetcode：Stack & Queue
