@@ -14,7 +14,7 @@
 * [Linked-List Note](week2/Linked-List_Note.md)
 
 ### Week3
-* Leetcode：Stack & Queue
+* Leetcode：[Stack](week3/Min Stack.ipynb) & Queue
 
 ### Week4
 * Leetcode：Quick Sort
