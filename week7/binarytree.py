@@ -16,7 +16,7 @@ class BinaryTree:
         if self.size is None:
             self.root=Node(val,parent)
         else:
-            return"root has existed"
+            return "root has existed"
         
         
     def add_left(self,val,parent):
