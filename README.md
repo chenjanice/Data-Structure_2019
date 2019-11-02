@@ -7,7 +7,7 @@
 >* Goal：Using Python to practice Data Structure and Algorithm
 
 ### Week1
-* Codesignal：[Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
+* [Codesigna_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
 * [Linked-List](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
