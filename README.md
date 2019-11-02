@@ -10,21 +10,26 @@
 * Codesignal：[Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
-* Leetcode：[Linked-List](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
+* [Linked-List](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
 * [Linked-List Note](week2/Linked-List_Note.md)
 
 ### Week3
-* Leetcode：
-  * [MinStack](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb) 
-  * Queue
+ * [MinStack](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb) 
+ * Queue
 
 ### Week4
-* Leetcode：Quick Sort
+ * Insetion Sort
 
-### Week 5
+### Week5
 * HW1：**Quick Sort**
   *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
-  *  [.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/quicksort.ipynb)   
+  *  [.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.ipynb)   
 * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
 * [Quick Sort Flowchart](quicksort_flowchart.jpg)
 
+### Week6
+* HW2
+  * HeapSort
+  * HeapSort流程圖
+  * MergeSort
+  * MergeSort流程圖
