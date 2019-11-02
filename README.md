@@ -21,7 +21,7 @@
  * Insetion Sort
 
 ### Week5
-* HW1：**Quick Sort**
+* HW1
   *  [Quick Sort.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
   *  [Quick Sort.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.ipynb)   
 * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
