@@ -22,8 +22,9 @@
 
 ### Week5
 * HW1
-  *  [Quick Sort.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
-  *  [Quick Sort.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.ipynb)   
+  * Quick Sort
+  *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
+  *  [.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.ipynb)   
 * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
 * [Quick Sort Flowchart](quicksort_flowchart.jpg)
 
@@ -32,4 +33,8 @@
   * HeapSort
   * HeapSort流程圖
   * MergeSort
+    * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW2/merge_sort_05153208.py)
+    * [.ipynb](HW2/merge_sort_05153208.ipynb)
   * MergeSort流程圖
+    * [系統流程圖](HW2/mergesort_flowchart1.png)
+    * [流程圖](HW2/mergesort_flowchart2.png)
