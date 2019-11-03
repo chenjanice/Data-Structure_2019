@@ -31,7 +31,10 @@
 ### Week6
 * HW2
   * HeapSort
+    * [.py](HW2/heap_sort_05153208.py)
+    * [.ipynb](HW2/heap_sort_05153208.ipynb)
   * HeapSort流程圖
+    * [流程圖]
   * MergeSort
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW2/merge_sort_05153208.py)
     * [.ipynb](HW2/merge_sort_05153208.ipynb)
