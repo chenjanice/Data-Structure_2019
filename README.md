@@ -6,7 +6,7 @@
 >* School：Soochow University
 >* Goal：Using Python to practice Data Structure and Algorithm
 
-## HW2
+### HW2
 * Heap Sort
   * [.py](HW2/heap_sort_05153208.py)
   * [.ipynb](HW2/heap_sort_05153208.ipynb)
@@ -20,7 +20,7 @@
   * [流程圖](HW2/mergesort_flowchart2.png)
 * [Merge Sort vs. Heap sort]()
 
-
+----------------------------------------------------
 
 
 ### Week1
