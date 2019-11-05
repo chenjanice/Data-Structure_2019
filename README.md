@@ -9,11 +9,9 @@
 ### HW2
   * Heap Sort
     * [.py](HW2/heap_sort_05153208.py)
-  * Heap Sort流程圖、學習歷程、文字說明
     * [流程圖、學習歷程、文字說明](HW2/HeapSort_流程圖、學習歷程_05153208.ipynb)
   * Merge Sort
     * [.py](HW2/merge_sort_05153208.py)
-  * Merge Sort流程圖、學習歷程、文字說明
     * [流程圖、學習歷程、文字說明](HW2/MergeSort_流程圖、學習歷程_05153208.ipynb)
   * [Merge Sort vs. Heap sort](HW2/heapsort_vs_mergesort.md)
 
