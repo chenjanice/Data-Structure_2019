@@ -25,3 +25,8 @@
 > `def modify (self,root,target,new_val):`
 >  * 此功能為修正，將以root為根節點的二元搜尋樹中所有值為target的節點更正為新值new_val。考量到修正完仍需符合二元搜尋樹的規則，因此此功能拆解則為，刪除二元搜尋樹中所有值為target的節點，並且插入同等數量的new_val。在程式設計當中，我先用preorder 的探訪，將整棵樹輸出成一個list，並且在這個list當中計算值為target的節點總數c。接著，利用for迴圈進行c次的刪除（delete）與插入（insert），此方式可確保修正後的二元搜尋樹仍符合規則。  
 >
+
+-----------------------------------
+### 參考資料
+>  * [(126) Delete a node from Binary Search Tree - YouTube](https://www.youtube.com/watch?v=gcULXE7ViZw)
+>  * [二元樹(Binary Tree)基礎 -](https://kopu.chat/2017/06/18/%e4%ba%8c%e5%85%83%e6%a8%b9/)
