@@ -51,18 +51,17 @@
 > 1.	無法預期資料數量時，使用Linked list就沒有resize的問題。
 > 2.	需要頻繁地新增/刪除資料時。
 
-## 實作概念
-> * 我把整個linked-list的實作分成兩個類別（class），一個是包含了資料及指標兩個屬性的節點（class ListNode），另一個則是定義出各種資料結構操作的list本身（class SingleLinkedList）。
-> * 程式碼部分很多是參考自[這裡](https://zhuanlan.zhihu.com/p/50563240)，我的完整程式碼[在這](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)。
-> * 由於每個節點只有指向下一個結點，而沒有指出上一個結點，所以屬於single linked-list，相對於有指出上一個節點的double linked-list。
-
-## 題目練習
-[**#707 Designed Linked List**](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
-
-## 參考資料
+## 參考網站
 > * [Linked List: 新增資料、刪除資料、反轉](http://alrightchiu.github.io/SecondRound/linked-list-xin-zeng-zi-liao-shan-chu-zi-liao-fan-zhuan.html)
 > * [Linked List: Intro(簡介)](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
 > * [707. Design Linked List - 知乎](https://zhuanlan.zhihu.com/p/50563240)
 > * [用python實作linked-list - Tobby Kuo - Medium](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
 > * [Singly Linked List: How To Insert and Print Node | Python Central](https://www.pythoncentral.io/singly-linked-list-insert-node/)
 
+## 題目練習
+>  [**Leetcode | 707 Designed Linked List**](https://leetcode.com/problems/design-linked-list/)　　前往>>  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
+
+## 實作概念
+> * 我把整個linked-list的實作分成兩個類別（class），一個是包含了資料及指標兩個屬性的節點（class ListNode），另一個則是定義出各種資料結構操作的list本身（class SingleLinkedList）。
+> * 程式碼部分很多是參考自[這裡](https://zhuanlan.zhihu.com/p/50563240)，我的完整程式碼[在這](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)。
+> * 由於每個節點只有指向下一個結點，而沒有指出上一個結點，所以屬於single linked-list，相對於有指出上一個節點的double linked-list。
