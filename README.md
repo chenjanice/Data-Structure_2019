@@ -27,8 +27,7 @@
 
 ### Week5
   * Quick Sort
-    *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
-    *  [.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.ipynb)   
+    *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)   
     * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
     * [流程圖、學習歷程、文字說明](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/Quicksort.ipynb)
 
