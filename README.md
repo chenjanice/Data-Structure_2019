@@ -20,22 +20,36 @@
  * [Stack & Queue Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Stack%20%26%20Queue.md)
 
 ### Week4
- * Insetion Sort
+ * [Set]()
+ * [Insetion Sort]()
 
 ### Week5
-* HW1
   * Quick Sort
     *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)
     *  [.ipynb](https://nbviewer.jupyter.org/github/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.ipynb)   
-* [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
-* [Quick Sort Flowchart](week5/quicksort_flowchart.jpg)
+    * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
+    * [Quick Sort Flowchart](week5/quicksort_flowchart.jpg)
 
 ### Week6
-* HW2
   * Heap Sort
     * [.py](HW2/heap_sort_05153208.py)
     * [流程圖、學習歷程、文字說明](HW2/HeapSort_流程圖、學習歷程_05153208.ipynb)
+    
+### Week7
   * Merge Sort
     * [.py](HW2/merge_sort_05153208.py)
     * [流程圖、學習歷程、文字說明](HW2/MergeSort_流程圖、學習歷程_05153208.ipynb)
   * [Merge Sort vs. Heap sort](HW2/heapsort_vs_mergesort.md)
+  
+### Week8
+  * Binary Tree
+  
+### Week9
+  * Binary Search Tree
+  
+### Week10
+  * Red Black Tree
+  
+### Week11
+  * Hash
+  
