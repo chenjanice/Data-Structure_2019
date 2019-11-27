@@ -36,7 +36,16 @@
 
 
 ## 題目練習
->  [**Leetcode | 147. Insertion Sort List**](https://leetcode.com/problems/insertion-sort-list/)　　前往>>  [我的練習程式碼]()
+>  [**Leetcode | 147. Insertion Sort List**](https://leetcode.com/problems/insertion-sort-list/)　　前往>>  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/147.%20Insertion%20Sort%20List.ipynb)
 
 ## 實作概念
-> * 
+> * 先建一個值為0的頭節點，接上題目給的linked list
+> * 令題目給的linked list的第一個值為head
+> * 開始令第一個值為current
+> * while 迴圈：若`current.next`存在即執行
+> * 讓 `current` 和 `current.next` 比較，若 `current` 較小--> `cur=cur.next`
+> * 若 `current.next` 較小(後面的值較前面小)：進入檢查的迴圈
+>   * 從 `第一個值(head)` 開始和 `current.next` 比較：
+>   * 直到找到可以插入的位置(前較小、後較大)
+>   * 更改鏈結、插入
+>   * 持續回到 while 迴圈：`current.next`存在就檢查
