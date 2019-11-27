@@ -48,6 +48,10 @@
   
 ### Week9
   * Binary Search Tree
+    * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/binary_search_tree_05153208.py)
+    * [流程圖、學習歷程、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86_05153208.ipynb)
+    * [功能說明](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
+  
   
 ### Week10
   * Red Black Tree
