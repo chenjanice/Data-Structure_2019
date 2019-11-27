@@ -8,7 +8,7 @@
 ----------------------------------------------------
 
 ### Week1
-* [Codesigna_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
+* [Codesignal_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
 * [Linked-List](week2/Linked-List_Note.md)
