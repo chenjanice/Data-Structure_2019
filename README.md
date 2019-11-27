@@ -45,7 +45,7 @@
   * Binary Tree
   
 ### Week9
-  * Binary Search Tree
+  * [Binary Search Tree](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86_05153208.ipynb)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/binary_search_tree_05153208.py)
     * [HW3: 程式碼學習歷程、文字說明、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86_05153208.ipynb)
     * [功能說明](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
