@@ -11,13 +11,13 @@
 * [Codesigna_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
-* [Linked-List](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Linkedlist.py)
-* [Linked-List Note](week2/Linked-List_Note.md)
+* [Linked-List](week2/Linked-List_Note.md)
+* [Leetcode | 707. Design Linked List 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Design_Linked_List.ipynb)
 
 ### Week3
- * [MinStack](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb) 
- * [Queue](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
- * [Stack & Queue Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Stack%20%26%20Queue.md)
+ * [Stack & Queue ](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Stack%20%26%20Queue.md)
+ * [Leetcode | 155. Min Stack 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb) 
+ * [Leetcode | 232. Implement Queue using Stacks 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
 
 ### Week4
  * [Set]()
