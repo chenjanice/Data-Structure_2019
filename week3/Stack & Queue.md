@@ -22,12 +22,8 @@
 > *  [Stack: 以Array與Linked list實作](http://alrightchiu.github.io/SecondRound/stack-yi-arrayyu-linked-listshi-zuo.html)  
 > *  [堆疊 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88)  
 
-### 練習
-> * `題目`：[Leetcode | 155. Min Stack](https://leetcode.com/problems/min-stack/)
-> *  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb)
-
-
-
+### 題目練習
+>  [**Leetcode | 155. Min Stack**](https://leetcode.com/problems/min-stack/)　　前往>> [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb)  
 -----------------------------------------------------------------------------------------------------------------------------------
 
 # Queue 隊列
@@ -55,6 +51,5 @@
 ### 參考網站 
 > *  [Queue: Intro(簡介)，並以Linked list實作](http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html)
 
-### 練習
-> * `題目`：[Leetcode | 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-> *  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
+### 題目練習
+>  [**Leetcode | 232. Implement Queue using Stacks**](https://leetcode.com/problems/implement-queue-using-stacks/)　　前往>> [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb) 
