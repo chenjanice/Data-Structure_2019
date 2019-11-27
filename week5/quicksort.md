@@ -17,7 +17,9 @@
 >* 快速排序演算法的優點是：原位排序（只使用很小的輔助棧），平均情況下的時間複雜度為 O(n log n)。快速排序演算法的缺點是：它是不穩定的排序演算法，最壞情況下的時間複雜度為 O(n2)。
 
 
-## Reference
-> [The Quick Sort — Problem Solving with Algorithms and Data Structures](http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html)
+## 參考網站
+> * [The Quick Sort — Problem Solving with Algorithms and Data Structures](http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html)   
+> * [Comparison Sort: Quick Sort(快速排序法)](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html)
 
-> [Comparison Sort: Quick Sort(快速排序法)](https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html)
+## 練習
+> [HW1 程式碼練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/Quicksort.ipynb)
