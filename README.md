@@ -36,7 +36,7 @@
     * [HW2: 程式碼學習歷程、文字說明、流程圖](https://github.com/chenjanice/Data-Structure_2019/blob/master/week6/HeapSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
     
 ### Week7
-  * [Merge Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week7/MergeSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb))
+  * [Merge Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week7/MergeSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
     * [.py](HW2/merge_sort_05153208.py)
     * [HW2: 程式碼學習歷程、文字說明、流程圖](https://github.com/chenjanice/Data-Structure_2019/blob/master/week7/MergeSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
   * [Merge Sort vs. Heap sort](HW2/heapsort_vs_mergesort.md)
