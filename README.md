@@ -26,9 +26,8 @@
  * [Leetcode | 147. Insertion Sort List 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/147.%20Insertion%20Sort%20List.ipynb)
 
 ### Week5
-  * Quick Sort
+  * [Quick Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
     *  [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.py)   
-    * [Quick Sort Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/quicksort.md)
     * [流程圖、學習歷程、文字說明](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/Quicksort.ipynb)
 
 ### Week6
