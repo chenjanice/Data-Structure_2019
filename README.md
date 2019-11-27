@@ -6,17 +6,6 @@
 >* School：Soochow University
 >* Goal：Using Python to practice Data Structure and Algorithm
 ----------------------------------------------------
-### HW2
-  * Heap Sort
-    * [.py](HW2/heap_sort_05153208.py)
-    * [流程圖、學習歷程、文字說明](HW2/HeapSort_流程圖、學習歷程_05153208.ipynb)
-  * Merge Sort
-    * [.py](HW2/merge_sort_05153208.py)
-    * [流程圖、學習歷程、文字說明](HW2/MergeSort_流程圖、學習歷程_05153208.ipynb)
-  * [Merge Sort vs. Heap sort](HW2/heapsort_vs_mergesort.md)
-
-----------------------------------------------------
-
 
 ### Week1
 * [Codesigna_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
@@ -27,7 +16,8 @@
 
 ### Week3
  * [MinStack](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb) 
- * Queue
+ * [Queue](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
+ * [Stack & Queue Note](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Stack%20%26%20Queue.md)
 
 ### Week4
  * Insetion Sort
