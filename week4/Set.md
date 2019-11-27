@@ -36,7 +36,7 @@
 
 
 ## 題目練習
->  [**Leetcode | 645. Set Mismatch**](https://leetcode.com/problems/set-mismatch/)　　前往>>  [我的練習程式碼]()
+>  [**Leetcode | 645. Set Mismatch**](https://leetcode.com/problems/set-mismatch/)　　前往>>  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/645.%20Set%20Mismatch.ipynb)
 
 ## 實作概念
 > * 參考hash的方式：統計每個位置出現的次數
