@@ -23,8 +23,7 @@
 > *  [堆疊 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88)  
 
 ### 練習
-> *  [Leetcode | 155. Min Stack](https://leetcode.com/problems/min-stack/)
->     * Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+> * `題目`：[Leetcode | 155. Min Stack](https://leetcode.com/problems/min-stack/)
 > *  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb)
 
 
@@ -32,7 +31,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 # Queue 隊列
-> 具有**「First-In-First-Out」**的資料結構，如同排隊買車票的隊伍即可視為Queue，先進入隊伍的人，可以優先離開隊伍，走向售票窗口買票，而後到的人，就需要等隊伍前面的人都買完票後才能買。
+> 具有 **「First-In-First-Out」** 的資料結構，如同排隊買車票的隊伍即可視為Queue，先進入隊伍的人，可以優先離開隊伍，走向售票窗口買票，而後到的人，就需要等隊伍前面的人都買完票後才能買。
 >
 > 特點：
 > 1. 隊伍有前方(以front表示)以及後方(以back表示)之分。
@@ -57,6 +56,5 @@
 > *  [Queue: Intro(簡介)，並以Linked list實作](http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html)
 
 ### 練習
-> *  [Leetcode | 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
->     * Implement the following operations of a queue using stacks.
+> * `題目`：[Leetcode | 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 > *  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
