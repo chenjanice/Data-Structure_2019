@@ -15,13 +15,13 @@
 > 2.	使用node(節點)來記錄、表示、儲存資料
 > 3.	利用pointer將每個node串連起來
 > 4.	每個node內部至少包含：data(代表資料)與pointer(指向下一個node)
-![image](images/linkedlist1.png)
-![image](images/linkedlist2.png)
+![image](https://raw.githubusercontent.com/chenjanice/Data-Structure_2019/master/images/linkedlist1.png)
+![image](https://raw.githubusercontent.com/chenjanice/Data-Structure_2019/master/images/linkedlist2.png)
 
  
 
 ## 比較：Array 與Linked List
-![image](images/linkedlist3.png)
+![image](https://raw.githubusercontent.com/chenjanice/Data-Structure_2019/master/images/linkedlist3.png)
 ### Array
 > `優點`：
 > 1.	random access：只要利用index即可在O(1)時間對Array的資料做存取。
