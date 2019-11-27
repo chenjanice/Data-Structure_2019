@@ -20,7 +20,8 @@
  * [Leetcode | 232. Implement Queue using Stacks 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
 
 ### Week4
- * [Set]()
+ * [Set](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/Set.md)
+ * [Leetcode | 645. Set Mismatch 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/645.%20Set%20Mismatch.ipynb)
  * [Insetion Sort]()
 
 ### Week5
