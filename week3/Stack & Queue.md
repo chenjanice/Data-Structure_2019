@@ -17,10 +17,18 @@
 > *  `getSize`：回傳Stack裡的資料個數，不影響資料結構本身。
 >    * 記錄目前箱子已經裝了多少本書。
 
-### 參考資料：  
+### 參考網站  
 > *  [Stack: Intro(簡介)](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)  
 > *  [Stack: 以Array與Linked list實作](http://alrightchiu.github.io/SecondRound/stack-yi-arrayyu-linked-listshi-zuo.html)  
 > *  [堆疊 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88)  
+
+### 練習
+> *  [Leetcode | 155. Min Stack](https://leetcode.com/problems/min-stack/)
+>     * Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+> *  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb)
+
+
+
 
 
 ## Queue 隊列
@@ -47,3 +55,8 @@
 
 ### 參考資料：  
 > *  [Queue: Intro(簡介)，並以Linked list實作](http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html)
+
+### 練習
+> *  [Leetcode | 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+>     * Implement the following operations of a queue using stacks.
+> *  [我的練習程式碼](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
