@@ -55,5 +55,12 @@
   * Red Black Tree
   
 ### Week11
-  * Hash
+  * Hash[https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/Hash.md]
+    * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/hash_table_05153208.py)
+    * [HW4: 程式碼學習歷程、流程圖、HashTable、HashFunction原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/HashTable_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81HashTable%E3%80%81HashFunction%20%E5%8E%9F%E7%90%86_05153208.ipynb)
+    
+### Week12
+  * Graph
+  
+    
   
