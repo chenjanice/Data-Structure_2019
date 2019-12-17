@@ -60,7 +60,19 @@
     * [HW4: 程式碼學習歷程、流程圖、HashTable、HashFunction原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/HashTable_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81HashTable%E3%80%81HashFunction%20%E5%8E%9F%E7%90%86_05153208.ipynb)
     
 ### Week12
-  * Graph
+  * [Breadth-First Search (BFS)](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
+    * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_05153208.py)
+    * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
+ 
+### Week13
+  * [Depth-First Search (DFS)](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
+  * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/DFS_05153208.py)
+  * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
+  
+### Week14
+  * Minimum Spanning Tree
+  
+  
   
     
   
