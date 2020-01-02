@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 from collections import defaultdict 
@@ -51,6 +51,8 @@ class Graph():
                     self.graph_matrix[step][i]=num
                 elif self.graph_matrix[step-1][i] <num:
                     self.graph_matrix[step][i]=self.graph_matrix[step-1][i]
+            elif (i not in self.group) and self.graph_matrix[point][i]!=0:
+                self.graph_matrix[step][i]=self.graph_matrix[step-1][i]
         return self.graph_matrix
 
     
@@ -70,7 +72,11 @@ class Graph():
 
 
     def Dijkstra(self, s):
-
+        self.group.clear()
+        self.graph_matrix.clear()
+        self.graph_matrix = [
+            ["-" for column in range(self.V)]  
+                    for row in range(self.V)] 
         self.group.append(s)
         self.graph_matrix[0][s]=0
         for i in range(self.V):
