@@ -5,6 +5,8 @@
 >* Major：Businesss Administrator & Big Data Management
 >* School：Soochow University
 >* Goal：Using Python to practice Data Structure and Algorithm
+>* [自我介紹](https://github.com/chenjanice/Data-Structure_2019/blob/master/images/%E9%99%B3%E4%BD%B3%E6%B7%B3.jpg?raw=true)
+>* [學期心得](https://github.com/chenjanice/Data-Structure_2019/blob/master/Learning_form_the_class.md)
 ----------------------------------------------------
 ## HW
 >* [HW1](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW1)
