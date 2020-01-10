@@ -27,6 +27,7 @@
 -----------------
 ## Week Summary
 ### Week1
+* [資料結構與演算法 首堂課：確定好mindset](https://github.com/chenjanice/Data-Structure_2019/tree/master/week1)
 * [Codesignal_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
