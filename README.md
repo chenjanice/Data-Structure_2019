@@ -41,8 +41,8 @@
 
 ### Week4
  * [Set](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/Set.md)
- * [Leetcode | 645. Set Mismatch 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/645.%20Set%20Mismatch.ipynb)
  * [Insetion Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/Insertion_Sort.md)
+ * [Leetcode | 645. Set Mismatch 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/645.%20Set%20Mismatch.ipynb)
  * [Leetcode | 147. Insertion Sort List 練習過程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/147.%20Insertion%20Sort%20List.ipynb)
 
 ### Week5
