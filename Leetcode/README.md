@@ -15,7 +15,7 @@
  * [My code](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/232%23_Implement%20Queue%20using%20Stacks_05153208.py)
  * [學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
 
-![image](sercontent.com/chenjanice/Data-Structure_2019/master/images/queue.jpg)
+![image](https://raw.githubusercontent.com/chenjanice/Data-Structure_2019/master/images/queue.jpg)
 ---------------
 ## 645.Set Mismatch
  * [My code](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/645%23_Set%20Mismatch_05153208.py)
