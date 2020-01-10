@@ -27,7 +27,7 @@
 -----------------
 ## Week Summary
 ### Week1
-* [第一堂課：確定好**Mindset**](https://github.com/chenjanice/Data-Structure_2019/tree/master/week1)
+* 課堂筆記：[第一堂Pecu的課 - 確定好**Mindset**](https://github.com/chenjanice/Data-Structure_2019/tree/master/week1)
 * [Codesignal_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
 ### Week2
