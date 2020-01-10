@@ -1,4 +1,4 @@
-## Data Structure and Algorithm _ 2019
+# Data Structure and Algorithm _ 2019
 
 ### Self-Introduction
 >* Name：Jessie Chen 陳佳淳
@@ -6,7 +6,26 @@
 >* School：Soochow University
 >* Goal：Using Python to practice Data Structure and Algorithm
 ----------------------------------------------------
+## HW
+>* [HW1](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW1)
+>* [HW2](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW2)
+>* [HW3](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW3)
+>* [HW4](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW4)
+>* [HW5](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW5)
+>* [HW6](https://github.com/chenjanice/Data-Structure_2019/tree/master/HW6)
 
+## Leetcode
+>* [Leetcode](https://github.com/chenjanice/Data-Structure_2019/tree/master/Leetcode)
+>* [147.Insertion Sort List](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/147%23_Insertion%20Sort%20List_05153208.py)/[學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/147.%20Insertion%20Sort%20List.ipynb)
+>* [155.Min Stack](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/155%23_Min%20Stack_05153208.py)/[學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Min%20Stack.ipynb)
+>* [232.Implement Queue using Stacks](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/232%23_Implement%20Queue%20using%20Stacks_05153208.py)/[學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week3/Queue.ipynb)
+>* [645.Set Mismatch](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/645%23_Set%20Mismatch_05153208.py)/[學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week4/645.%20Set%20Mismatch.ipynb)
+>* [707.Design Linked List](https://github.com/chenjanice/Data-Structure_2019/blob/master/Leetcode/707%23_Design%20Linked%20List_05153208.py)/[學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Design_Linked_List.ipynb)
+
+## Codesignal
+>* [Pyhton](https://github.com/chenjanice/Data-Structure_2019/blob/master/Codesignal/README.md)
+-----------------
+## Week Summary
 ### Week1
 * [Codesignal_Python](https://github.com/chenjanice/Data-Structure_2019/blob/master/week1/codesignal%201-10.md#codesignal-python)
 
