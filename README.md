@@ -62,7 +62,7 @@
   * [Merge Sort vs. Heap sort](HW2/heapsort_vs_mergesort.md)
   
 ### Week8
-  * Binary Tree(https://github.com/chenjanice/Data-Structure_2019/tree/master/week8)
+  * [Binary Tree](https://github.com/chenjanice/Data-Structure_2019/tree/master/week8)
   
 ### Week9
   * [Binary Search Tree](https://github.com/chenjanice/Data-Structure_2019/tree/master/week9)
@@ -90,13 +90,13 @@
     * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
   
 ### Week14
-  * Minimum Spanning Tree
+  * [Minimum Spanning Tree](https://github.com/chenjanice/Data-Structure_2019/tree/master/week14)
   * [Dijkstra](https://github.com/chenjanice/Data-Structure_2019/tree/master/week14)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra_05153208.py)
     * [HW6: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra%26Krusdal_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E_05153208.ipynb)  
   
 ### Week15
-  * Shortest path
+  * [Shortest path](https://github.com/chenjanice/Data-Structure_2019/tree/master/week15)
   * [Kruskal](https://github.com/chenjanice/Data-Structure_2019/tree/master/week15)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra_05153208.py)
     * [HW6: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra%26Krusdal_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E_05153208.ipynb)  
