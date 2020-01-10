@@ -51,53 +51,53 @@
     * [HW1: 程式碼練習歷程、文字說明、流程圖](https://github.com/chenjanice/Data-Structure_2019/blob/master/week5/Quicksort.ipynb)
 
 ### Week6
-  * [Heap Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week6/HeapSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
+  * [Heap Sort](https://github.com/chenjanice/Data-Structure_2019/tree/master/week6)
     * [.py](HW2/heap_sort_05153208.py)
     * [HW2: 程式碼學習歷程、文字說明、流程圖](https://github.com/chenjanice/Data-Structure_2019/blob/master/week6/HeapSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
     
 ### Week7
-  * [Merge Sort](https://github.com/chenjanice/Data-Structure_2019/blob/master/week7/MergeSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
+  * [Merge Sort](https://github.com/chenjanice/Data-Structure_2019/tree/master/week7)
     * [.py](HW2/merge_sort_05153208.py)
     * [HW2: 程式碼學習歷程、文字說明、流程圖](https://github.com/chenjanice/Data-Structure_2019/blob/master/week7/MergeSort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_05153208.ipynb)
   * [Merge Sort vs. Heap sort](HW2/heapsort_vs_mergesort.md)
   
 ### Week8
-  * Binary Tree
+  * Binary Tree(https://github.com/chenjanice/Data-Structure_2019/tree/master/week8)
   
 ### Week9
-  * [Binary Search Tree](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86_05153208.ipynb)
+  * [Binary Search Tree](https://github.com/chenjanice/Data-Structure_2019/tree/master/week9)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/binary_search_tree_05153208.py)
     * [HW3: 程式碼學習歷程、文字說明、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86_05153208.ipynb)
     * [功能說明](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW3/BST_%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
   
   
 ### Week10
-  * Red Black Tree
+  * [Red Black Tree](https://github.com/chenjanice/Data-Structure_2019/tree/master/week10)
   
 ### Week11
-  * [Hash](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/Hash.md)
+  * [Hash](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/hash_table_05153208.py)
     * [HW4: 程式碼學習歷程、流程圖、HashTable、HashFunction原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/HashTable_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81HashTable%E3%80%81HashFunction%20%E5%8E%9F%E7%90%86_05153208.ipynb)
     
 ### Week12
-  * [Breadth-First Search (BFS)]()
+  * [Breadth-First Search (BFS)](https://github.com/chenjanice/Data-Structure_2019/tree/master/week12)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_05153208.py)
     * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
  
 ### Week13
-  * [Depth-First Search (DFS)]()
+  * [Depth-First Search (DFS)](https://github.com/chenjanice/Data-Structure_2019/tree/master/week13)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/DFS_05153208.py)
     * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
   
 ### Week14
   * Minimum Spanning Tree
-  * [Dijkstra]()
+  * [Dijkstra](https://github.com/chenjanice/Data-Structure_2019/tree/master/week14)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra_05153208.py)
     * [HW6: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra%26Krusdal_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E_05153208.ipynb)  
   
 ### Week15
   * Shortest path
-  * [Kruskal]()
+  * [Kruskal](https://github.com/chenjanice/Data-Structure_2019/tree/master/week15)
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra_05153208.py)
     * [HW6: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra%26Krusdal_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E_05153208.ipynb)  
   
