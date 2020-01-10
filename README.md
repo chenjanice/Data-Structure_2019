@@ -60,19 +60,39 @@
     * [HW4: 程式碼學習歷程、流程圖、HashTable、HashFunction原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week11/HashTable_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81HashTable%E3%80%81HashFunction%20%E5%8E%9F%E7%90%86_05153208.ipynb)
     
 ### Week12
-  * [Breadth-First Search (BFS)](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
+  * [Breadth-First Search (BFS)]()
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_05153208.py)
     * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week12/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
  
 ### Week13
-  * [Depth-First Search (DFS)](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
+  * [Depth-First Search (DFS)]()
     * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/DFS_05153208.py)
     * [HW5: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/week13/BFS_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%26DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83_05153208.ipynb)
   
 ### Week14
   * Minimum Spanning Tree
+  * [Dijkstra]()
+    * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra_05153208.py)
+    * [HW6: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra%26Krusdal_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E_05153208.ipynb)  
+  
+### Week15
+  * Shortest path
+  * [Kruskal]()
+    * [.py](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra_05153208.py)
+    * [HW6: 程式碼學習歷程、流程圖、原理](https://github.com/chenjanice/Data-Structure_2019/blob/master/HW6/Dijkstra%26Krusdal_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E_05153208.ipynb)  
+  
+### Week16
+  * [My Blockchain code](https://github.com/chenjanice/Data-Structure_2019/tree/master/Blockchain)
+  * Blockcahin Demo Video
+    * [簡大為Demo](https://youtu.be/RqTTfm0vF4c)
+    * [陳偉傑Demo](https://youtu.be/Ri3o0ZqYBmQ)
+    * [陳佳淳Demo](https://youtu.be/DQT6R-27bDY)
   
   
+### Week17
+  * 期末考
   
+### Week18
+  * 放假!
     
   
