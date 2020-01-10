@@ -28,3 +28,6 @@
  * [學習歷程](https://github.com/chenjanice/Data-Structure_2019/blob/master/week2/Design_Linked_List.ipynb)
 
 ![image](https://raw.githubusercontent.com/chenjanice/Data-Structure_2019/master/images/linkedlistleetcode.png)
+
+# All Submission
+![image](https://raw.githubusercontent.com/chenjanice/Data-Structure_2019/master/images/submission.png)
